@@ -11,7 +11,7 @@ Library: C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\D
 --linker-options=PdbAltPath="EZPZ_Interaction_Toolkit_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Library\Burst
 --output=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -128,7 +128,7 @@ Library: C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\D
 --linker-options=PdbAltPath="EZPZ_Interaction_Toolkit_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Library\Burst
 --output=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -247,7 +247,7 @@ Library: C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\D
 --linker-options=PdbAltPath="EZPZ_Interaction_Toolkit_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Library\Burst
 --output=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -268,7 +268,7 @@ Library: C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\D
 --linker-options=PdbAltPath="EZPZ_Interaction_Toolkit_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Library\Burst
 --output=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -287,7 +287,7 @@ Library: C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\D
 --linker-options=PdbAltPath="EZPZ_Interaction_Toolkit_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Library\Burst
 --output=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -373,7 +373,7 @@ Library: C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\D
 --linker-options=PdbAltPath="EZPZ_Interaction_Toolkit_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Library\Burst
 --output=C:\Users\999\Desktop\9902a1\verbose-octo-waffle-main\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
